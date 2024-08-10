@@ -1,0 +1,128 @@
+2024-08-09 18:14:24,031 - INFO - patching driver executable /Users/apple/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-08-09 18:14:34,946 - INFO - Screenshot taken: screenshots/LandingPage_1723207469.png
+2024-08-09 18:14:34,954 - INFO - URL: https://www.expedia.co.in/
+2024-08-09 18:14:34,957 - INFO - Title: Expedia Travel: Vacations, Cheap Flights, Airline Tickets & Airfares
+2024-08-09 18:14:35,432 - INFO - Screenshot taken: screenshots/FlightsTabClicked_1723207475.png
+2024-08-09 18:14:35,432 - INFO - Flights tab clicked
+2024-08-09 18:14:36,303 - INFO - Screenshot taken: screenshots/SearchButtonClicked_1723207475.png
+2024-08-09 18:14:36,303 - INFO - Search button clicked
+2024-08-09 18:14:36,960 - INFO - Screenshot taken: screenshots/LeavingFromSet_1723207476.png
+2024-08-09 18:14:36,961 - INFO - Leaving from set to Kolkata
+2024-08-09 18:14:37,334 - INFO - Screenshot taken: screenshots/SearchButtonClickedAfterLeaving_1723207477.png
+2024-08-09 18:14:37,334 - INFO - Search button clicked after setting Leaving From
+2024-08-09 18:14:37,715 - INFO - Screenshot taken: screenshots/GoingToSet_1723207477.png
+2024-08-09 18:14:37,715 - INFO - Going to set to Hyderabad
+2024-08-09 18:14:38,305 - INFO - Screenshot taken: screenshots/DepartureDatePickerClicked_1723207477.png
+2024-08-09 18:14:38,305 - INFO - Departure date picker clicked
+2024-08-09 18:14:38,315 - INFO - Calendar opened
+2024-08-09 18:14:38,629 - INFO - Screenshot taken: screenshots/DateSelected_1723207478.png
+2024-08-09 18:14:38,629 - INFO - September 8 date selected
+2024-08-09 18:14:38,983 - INFO - Screenshot taken: screenshots/DoneButtonClicked_1723207478.png
+2024-08-09 18:14:38,983 - INFO - Done button clicked
+2024-08-09 18:14:39,362 - INFO - Screenshot taken: screenshots/TravelerSelectorOpened_1723207479.png
+2024-08-09 18:14:39,362 - INFO - Traveler selector opened
+2024-08-09 18:14:40,172 - INFO - Screenshot taken: screenshots/AdultsIncreased_1723207479.png
+2024-08-09 18:14:40,173 - INFO - Number of adults increased
+2024-08-09 18:14:40,547 - INFO - Screenshot taken: screenshots/TravelerDoneClicked_1723207480.png
+2024-08-09 18:14:40,547 - INFO - Passengers set
+2024-08-09 18:14:44,476 - INFO - Screenshot taken: screenshots/SearchSubmitted_1723207484.png
+2024-08-09 18:14:44,478 - INFO - Search submitted
+2024-08-09 18:14:49,812 - INFO - Screenshot taken: screenshots/FlightSelected_1723207489.png
+2024-08-09 18:14:49,812 - INFO - Flight selected
+2024-08-09 18:14:59,818 - INFO - Ending session
+2024-08-09 18:39:07,461 - INFO - patching driver executable /Users/apple/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-08-09 18:39:21,734 - INFO - Screenshot taken: screenshots/LandingPage_1723208961.png
+2024-08-09 18:39:21,739 - INFO - URL: https://www.expedia.co.in/
+2024-08-09 18:39:21,741 - INFO - Title: Expedia Travel: Vacations, Cheap Flights, Airline Tickets & Airfares
+2024-08-09 18:39:22,203 - INFO - Screenshot taken: screenshots/FlightsTabClicked_1723208961.png
+2024-08-09 18:39:22,204 - INFO - Flights tab clicked
+2024-08-09 18:39:23,084 - INFO - Screenshot taken: screenshots/SearchButtonClicked_1723208962.png
+2024-08-09 18:39:23,084 - INFO - Search button clicked
+2024-08-09 18:39:23,731 - INFO - Screenshot taken: screenshots/LeavingFromSet_1723208963.png
+2024-08-09 18:39:23,731 - INFO - Leaving from set to Kolkata
+2024-08-09 18:39:24,110 - INFO - Screenshot taken: screenshots/SearchButtonClickedAfterLeaving_1723208963.png
+2024-08-09 18:39:24,110 - INFO - Search button clicked after setting Leaving From
+2024-08-09 18:39:24,731 - INFO - Screenshot taken: screenshots/GoingToSet_1723208964.png
+2024-08-09 18:39:24,731 - INFO - Going to set to Hyderabad
+2024-08-09 18:39:25,106 - INFO - Screenshot taken: screenshots/DepartureDatePickerClicked_1723208964.png
+2024-08-09 18:39:25,106 - INFO - Departure date picker clicked
+2024-08-09 18:39:25,116 - INFO - Calendar opened
+2024-08-09 18:39:25,416 - INFO - Screenshot taken: screenshots/DateSelected_1723208965.png
+2024-08-09 18:39:25,416 - INFO - September 8 date selected
+2024-08-09 18:39:25,757 - INFO - Screenshot taken: screenshots/DoneButtonClicked_1723208965.png
+2024-08-09 18:39:25,757 - INFO - Done button clicked
+2024-08-09 18:39:26,097 - INFO - Screenshot taken: screenshots/TravelerSelectorOpened_1723208965.png
+2024-08-09 18:39:26,098 - INFO - Traveler selector opened
+2024-08-09 18:39:26,950 - INFO - Screenshot taken: screenshots/AdultsIncreased_1723208966.png
+2024-08-09 18:39:26,950 - INFO - Number of adults increased
+2024-08-09 18:39:27,329 - INFO - Screenshot taken: screenshots/TravelerDoneClicked_1723208966.png
+2024-08-09 18:39:27,329 - INFO - Passengers set
+2024-08-09 18:39:31,428 - INFO - Screenshot taken: screenshots/SearchSubmitted_1723208971.png
+2024-08-09 18:39:31,428 - INFO - Search submitted
+2024-08-09 18:39:36,743 - INFO - Screenshot taken: screenshots/FlightSelected_1723208976.png
+2024-08-09 18:39:36,743 - INFO - Flight selected
+2024-08-09 18:39:46,748 - INFO - Ending session
+2024-08-09 21:54:54,991 - INFO - patching driver executable /Users/apple/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-08-09 21:54:57,339 - INFO - patching driver executable /Users/apple/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-08-09 21:55:06,499 - INFO - Screenshot taken: screenshots/LandingPage_1723220702.png
+2024-08-09 21:55:06,505 - INFO - URL: https://www.expedia.co.in/
+2024-08-09 21:55:06,507 - INFO - Title: Expedia Travel: Vacations, Cheap Flights, Airline Tickets & Airfares
+2024-08-09 21:55:07,053 - INFO - Screenshot taken: screenshots/FlightsTabClicked_1723220706.png
+2024-08-09 21:55:07,053 - INFO - Flights tab clicked
+2024-08-09 21:55:07,458 - INFO - Screenshot taken: screenshots/SearchButtonClicked_1723220707.png
+2024-08-09 21:55:07,458 - INFO - Search button clicked
+2024-08-09 21:55:08,131 - INFO - Screenshot taken: screenshots/LeavingFromSet_1723220707.png
+2024-08-09 21:55:08,131 - INFO - Leaving from set to Kolkata
+2024-08-09 21:55:08,563 - INFO - Screenshot taken: screenshots/LandingPage_1723220708.png
+2024-08-09 21:55:08,571 - INFO - URL: https://www.expedia.co.in/
+2024-08-09 21:55:08,573 - INFO - Title: Expedia Travel: Vacations, Cheap Flights, Airline Tickets & Airfares
+2024-08-09 21:55:08,618 - INFO - Screenshot taken: screenshots/SearchButtonClickedAfterLeaving_1723220708.png
+2024-08-09 21:55:08,618 - INFO - Search button clicked after setting Leaving From
+2024-08-09 21:55:09,090 - INFO - Screenshot taken: screenshots/GoingToSet_1723220708.png
+2024-08-09 21:55:09,090 - INFO - Going to set to Hyderabad
+2024-08-09 21:55:09,129 - INFO - Screenshot taken: screenshots/FlightsTabClicked_1723220708.png
+2024-08-09 21:55:09,129 - INFO - Flights tab clicked
+2024-08-09 21:55:09,502 - INFO - Screenshot taken: screenshots/DepartureDatePickerClicked_1723220709.png
+2024-08-09 21:55:09,502 - INFO - Departure date picker clicked
+2024-08-09 21:55:09,902 - INFO - Calendar opened
+2024-08-09 21:55:10,136 - INFO - Screenshot taken: screenshots/SearchButtonClicked_1723220709.png
+2024-08-09 21:55:10,136 - INFO - Search button clicked
+2024-08-09 21:55:10,302 - INFO - Screenshot taken: screenshots/DateSelected_1723220710.png
+2024-08-09 21:55:10,302 - INFO - September 8 date selected
+2024-08-09 21:55:10,705 - INFO - Screenshot taken: screenshots/LeavingFromSet_1723220710.png
+2024-08-09 21:55:10,706 - INFO - Leaving from set to Kolkata
+2024-08-09 21:55:10,876 - INFO - Screenshot taken: screenshots/DoneButtonClicked_1723220710.png
+2024-08-09 21:55:10,876 - INFO - Done button clicked
+2024-08-09 21:55:11,096 - INFO - Screenshot taken: screenshots/SearchButtonClickedAfterLeaving_1723220710.png
+2024-08-09 21:55:11,096 - INFO - Search button clicked after setting Leaving From
+2024-08-09 21:55:11,255 - INFO - Screenshot taken: screenshots/TravelerSelectorOpened_1723220710.png
+2024-08-09 21:55:11,255 - INFO - Traveler selector opened
+2024-08-09 21:55:11,497 - INFO - Screenshot taken: screenshots/GoingToSet_1723220711.png
+2024-08-09 21:55:11,497 - INFO - Going to set to Hyderabad
+2024-08-09 21:55:12,095 - INFO - Screenshot taken: screenshots/AdultsIncreased_1723220711.png
+2024-08-09 21:55:12,095 - INFO - Number of adults increased
+2024-08-09 21:55:12,098 - INFO - Screenshot taken: screenshots/DepartureDatePickerClicked_1723220711.png
+2024-08-09 21:55:12,098 - INFO - Departure date picker clicked
+2024-08-09 21:55:12,109 - INFO - Calendar opened
+2024-08-09 21:55:12,436 - INFO - Screenshot taken: screenshots/DateSelected_1723220712.png
+2024-08-09 21:55:12,436 - INFO - September 8 date selected
+2024-08-09 21:55:12,455 - INFO - Screenshot taken: screenshots/TravelerDoneClicked_1723220712.png
+2024-08-09 21:55:12,455 - INFO - Passengers set
+2024-08-09 21:55:12,793 - INFO - Screenshot taken: screenshots/DoneButtonClicked_1723220712.png
+2024-08-09 21:55:12,793 - INFO - Done button clicked
+2024-08-09 21:55:13,139 - INFO - Screenshot taken: screenshots/TravelerSelectorOpened_1723220712.png
+2024-08-09 21:55:13,139 - INFO - Traveler selector opened
+2024-08-09 21:55:13,976 - INFO - Screenshot taken: screenshots/AdultsIncreased_1723220713.png
+2024-08-09 21:55:13,977 - INFO - Number of adults increased
+2024-08-09 21:55:14,400 - INFO - Screenshot taken: screenshots/TravelerDoneClicked_1723220714.png
+2024-08-09 21:55:14,400 - INFO - Passengers set
+2024-08-09 21:55:15,569 - INFO - Screenshot taken: screenshots/SearchSubmitted_1723220715.png
+2024-08-09 21:55:15,570 - INFO - Search submitted
+2024-08-09 21:55:17,884 - INFO - Screenshot taken: screenshots/SearchSubmitted_1723220717.png
+2024-08-09 21:55:17,884 - INFO - Search submitted
+2024-08-09 21:55:20,927 - INFO - Screenshot taken: screenshots/FlightSelected_1723220720.png
+2024-08-09 21:55:20,928 - INFO - Flight selected
+2024-08-09 21:55:23,295 - INFO - Screenshot taken: screenshots/FlightSelected_1723220723.png
+2024-08-09 21:55:23,295 - INFO - Flight selected
+2024-08-09 21:55:30,933 - INFO - Ending session
+2024-08-09 21:55:33,301 - INFO - Ending session
